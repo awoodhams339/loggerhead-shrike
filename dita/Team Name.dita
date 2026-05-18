@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_kbm_zqm_hjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Team Name</title>
+    <shortdesc>What is included in the team name</shortdesc>
     <conbody>
-        <p></p>
+        <p>The columns titled "#", "School", and "Suffix" are where you find the team name. "#"
+            means the team number, "School" tells you what school the team is from, and "Suffix"
+            tells you the team name, if a school has brought multiple teams.</p>
     </conbody>
 </concept>
