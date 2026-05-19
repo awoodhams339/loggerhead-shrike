@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_vps_kl4_hjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Creating The Award Slideshow</title>
+    <shortdesc>Once every event has been graded, it's time for Awards</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Duosmium offers a tool that generates a slideshow for you. Here's how to get it!</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click the "Results" tab in the toolbar</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the Publishing Status has no issues.</cmd>
+            </step>
+            <step>
+                <cmd>Make sure all events are selected.</cmd>
+            </step>
+            <step>
+                <cmd>Click the yellow "Generate Slides" button to preview what the slideshow will
+                    look like.</cmd>
+            </step>
+            <step>
+                <cmd>Click the yellow "Present" button next to "Generate Slides"</cmd>
+            </step>
+            <step>
+                <cmd>The presentation will start automatically.</cmd>
+            </step>
+            <step>
+                <cmd>To exit, hit "esc".</cmd>
+            </step>
+            <step>
+                <cmd>Click the yellow "Resume Presenting" or the yellow "Stop Presenting" button to
+                    either resume or stop.</cmd>
             </step>
         </steps>
     </taskbody>
