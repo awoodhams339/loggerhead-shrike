@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_xzb_1sm_hjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Inputting Scores</title>
+    <shortdesc>How to input scores</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Once you have graded all of the tests, it's time to start entering in scores!</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>In the "Raw Score" column, type in each team's scores</cmd>
+                <substeps id="substeps_pd3_q34_hjc">
+                    <substep>
+                        <cmd>Once you have done this, you can select where it says "By Number" to
+                            sort teams "By Score"</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Check if you have any ties. It will say "TIE" in the "Notes" column in the
+                    team's row if that team is tied with anyone.</cmd>
+            </step>
+            <step>
+                <cmd>If there are ties, follow the steps below. If there are none, move on to the
+                    next step.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Find which teams are tied.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Refer to the designated tiebreaker questions to break the tie. If no
+                            tiebreaker questions have been designated, choose one.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>In the "Tiebreak" column of the team that wins the tiebreaker, type
+                            0.002</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>In the "Tiebreak" column of the team that loses the tiebreaker, type
+                            0.001</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>In the event of a three-or-more-way tie, the first winner gets 0.003,
+                            the second winner gets 0.002, etc.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Repeat for any and all ties</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Ensure all scores have been entered and any and all ties have been broken</cmd>
+            </step>
+            <step>
+                <cmd>Click the green "Save" button</cmd>
             </step>
         </steps>
     </taskbody>
