@@ -5,7 +5,7 @@
 # ↓ add-brand-colors ↓
 brand:
   color:
-    primary: '#861F41'
+    primary: '#CF9FFF'
     secondary: '#CF9FFF'
     tertiary: '#75787b'
     inverse: '#FFFFFF'
