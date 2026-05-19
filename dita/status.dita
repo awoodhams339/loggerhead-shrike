@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_lxm_dn4_hjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>The Status Column</title>
+    <shortdesc>One of the columns in the score sheet is called "Status". Here is what that
+        means!</shortdesc>
     <conbody>
-        <p></p>
+        <p>"Status" refers to how the team competed. "CO" means completed and designates a team that
+            competed completely normally, no issues. "PO" means participated: the team showed up but
+            did not complete a test and therefore could not be assigned a raw score. "NS" means no
+            show, and is used for teams that do not show up to the test. "DQ" means disqualified,
+            and should only be applied to a team with the tournament director(s)'s approval. </p>
     </conbody>
 </concept>
