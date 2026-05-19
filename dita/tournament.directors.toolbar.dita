@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_vxj_j44_hjc">
-    <title></title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <title>Quick Guide to the Tournament Director's Toolbar</title>
+    <shortdesc>Here's what is available at each tab for a tournament director.</shortdesc>
+    <refbody>
+        <example>
+            <ul id="ul_g5m_444_hjc">
+                <li>Members - invite people, assign events, assign roles</li>
+                <li>Events/Score Counseling - view, audit, score, and lock events</li>
+                <li>Teams - add, view and edit teams and assign penalties</li>
+                <li>Results - view histograms, view scoresheet, view and present awards slideshow,
+                    view and print medals list, and export various scores </li>
+            </ul>
+        </example>
+    </refbody>
 </reference>
