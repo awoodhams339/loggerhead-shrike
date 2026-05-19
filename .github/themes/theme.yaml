@@ -6,7 +6,7 @@
 brand:
   color:
     primary: '#861F41'
-    secondary: '#E5751F'
+    secondary: '#CF9FFF'
     tertiary: '#75787b'
     inverse: '#FFFFFF'
     links: '#3563ab'
