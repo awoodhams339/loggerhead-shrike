@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_e3k_fk4_hjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Creating Your Duosmium Account</title>
+    <shortdesc>Follow these steps to create your Duosmium Account!</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>If you are an event supervisor (ES), you will get an email inviting you to join the
+                tournament. Here's how to do so and create your account.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click where the email says "click here".</cmd>
+            </step>
+            <step>
+                <cmd>When you get to a page that says "Duosmium Scoring Login", click "Don't have an
+                    account?"</cmd>
+            </step>
+            <step>
+                <cmd>Fill out the required fields</cmd>
+            </step>
+            <step>
+                <cmd>Click Sign Up</cmd>
             </step>
         </steps>
     </taskbody>
