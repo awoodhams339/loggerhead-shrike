@@ -2,4 +2,12 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Duosmium Instructions</title>
+<topicmeta>
+  <author>Ava Woodhams</author>
+ </topicmeta>
+
+ <topicref href="index.dita"/>
+ <topicref href="Team Name.dita"/>
+ <topicref href="Inputting Scores.dita">
+ </topicref>
 </map>
