@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_el2_ksn_mjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>What's the difference between a Team Number and a Team Name?</title>
+    <shortdesc>A team always will have both a team number and a team name, and the two are
+        different!</shortdesc>
     <conbody>
-        <p></p>
+        <p>A team name can be just the school's name, like Davis Senior High School, or the school's
+            name plus a suffix, like Milpitas Blue. Sometimes a team can have fun with it (Castro
+            Valley Garlic) and sometimes they can go the opposite direction (American Legion A). The
+            team name is what will be announced at awards, but the team number is assigned to them
+            when they register. This is to make it easier for the graders on their end, to put the
+            tests in team order, and to be able to reference tests easier. It also allows for ease
+            of attendance when finding out who actually showed up to each event.</p>
     </conbody>
 </concept>
