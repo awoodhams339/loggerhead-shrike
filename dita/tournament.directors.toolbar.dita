@@ -4,14 +4,31 @@
     <title>Quick Guide to the Tournament Director's Toolbar</title>
     <shortdesc>Here's what is available at each tab for a tournament director.</shortdesc>
     <refbody>
-        <example>
-            <ul id="ul_g5m_444_hjc">
-                <li>Members - invite people, assign events, assign roles</li>
-                <li>Events/Score Counseling - view, audit, score, and lock events</li>
-                <li>Teams - add, view and edit teams and assign penalties</li>
-                <li>Results - view histograms, view scoresheet, view and present awards slideshow,
-                    view and print medals list, and export various scores </li>
-            </ul>
-        </example>
+        <table frame="all" rowsep="1" colsep="1" id="table_fgy_zqn_mjc">
+            <title/>
+            <tgroup cols="2">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="2" colname="c2" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry>Members</entry>
+                        <entry>invite people, assign events, assign roles</entry>
+                    </row>
+                    <row>
+                        <entry>Events/Score Counseling</entry>
+                        <entry>view, audit, score, and lock events</entry>
+                    </row>
+                    <row>
+                        <entry>Teams</entry>
+                        <entry>add, view, and edit teams, and assign penalties</entry>
+                    </row>
+                    <row>
+                        <entry>Results</entry>
+                        <entry>view histograms, view scoresheet, view and present awards slideshow,
+                            view and print medals list, and export various scores</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
     </refbody>
 </reference>
