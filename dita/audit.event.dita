@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ysg_55n_mjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>How to Audit Events</title>
+    <shortdesc>Once every event is graded, it's time to for the Tournament Director (or score
+        counselor) to audit.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Auditing ensures that every event has been scored correctly and everything is how it
+                should be: no ties, all scores entered and save, and the winners for each event in
+                their place. Event Supervisors are not responsible for this.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>In the score area of the event you are auditing, review the entered scores and
+                    the broken ties.</cmd>
+            </step>
+            <step>
+                <cmd>Next, press the yellow "Lock" button to lock the event so no more changes can
+                    be made before you mark the event as audited.</cmd>
+            </step>
+            <step>
+                <cmd>Then, click the now clickable purple "Audit" button.</cmd>
+            </step>
+            <step>
+                <cmd>Check off each box.</cmd>
+            </step>
+            <step>
+                <cmd>If one of the items in the list has not been done, click "Cancel" and then
+                    "Unlock" so the item can be completed.</cmd>
+            </step>
+            <step>
+                <cmd>Once all items have been checked off, type your name as prompted in the box
+                    below the list.</cmd>
+            </step>
+            <step>
+                <cmd>Click the green "Audit Results" button.</cmd>
             </step>
         </steps>
     </taskbody>
