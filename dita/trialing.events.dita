@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_o5p_mrn_mjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>What does it mean to "Trial" an Event?</title>
+    <shortdesc>Often times events are said to be trialed, but what does this actually
+        mean?</shortdesc>
     <conbody>
-        <p></p>
+        <p>Sometimes events are trial events from the start. This means that the Science Olympiad
+            organization is testing these events out to maybe bring them into rotation for future
+            seasons, or the tournament organizers wanted to bring an old event back for fun. Either
+            way, these events do not count toward a team's overall score. When an event is
+            "trialed", this means that either something went wrong with how the test was ran or how
+            it was graded, so now it no longer counts toward a team's score. This way, teams get to
+            still see how they would have placed, but it does not affect their final standing.</p>
     </conbody>
 </concept>
