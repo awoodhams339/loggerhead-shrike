@@ -7,11 +7,12 @@
  </topicmeta>
 
  <topicref href="index.dita"/>
+ <topicref href="creating.account.dita"/>
  <topicref href="team.name.dita"/>
  <topicref href="status.dita"/>
  <topicref href="inputting.scores.dita"/>
- <topicref href="creating.account.dita"/>
- <topicref href="creating.the.awards.slideshow.dita"/>
- <topicref href="tournament.directors.toolbar.dita">
+ <topicref href="trialing.events.dita"/>
+ <topicref href="tournament.directors.toolbar.dita"/>
+ <topicref href="creating.the.awards.slideshow.dita">
  </topicref>
 </map>
