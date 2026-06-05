@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_lgv_ctn_mjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>How to Assign Events</title>
+    <shortdesc>In order to make someone the event supervisor, you have to assign the event to them.
+        Here's how to do that!</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Every event should have an event supervisor: someone who will proctor and grade the
+                event. Some events may have more than one, but each event supervisor should have
+                access to their event. Here's how to assign it.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>In the "Members" tab, find the person you want to assign a specific event
+                    to.</cmd>
+            </step>
+            <step>
+                <cmd>In their row, click the edit button. (See below)<image href="edit.button.png"
+                        id="image_mpp_ztn_mjc"/></cmd>
+            </step>
+            <step>
+                <cmd>In the list of events that pops up, select whichever event(s) you want to
+                    assign to the person.</cmd>
+            </step>
+            <step>
+                <cmd>Click the green save button.</cmd>
             </step>
         </steps>
     </taskbody>
