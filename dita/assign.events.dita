@@ -17,7 +17,7 @@
             </step>
             <step>
                 <cmd>In their row, click the edit button. (See below)<image href="edit.button.png"
-                        id="image_mpp_ztn_mjc">
+                        id="image_mpp_ztn_mjc" scalefit="yes">
                         <alt>Screenshot of the Tournament Director's view of the member's tab,
                             showing three participants: two already registered with the tournament,
                             one with the invite pending. The edit button has been boxed in
