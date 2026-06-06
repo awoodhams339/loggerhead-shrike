@@ -23,6 +23,14 @@
                 <cmd>Then, click the now clickable purple "Audit" button.</cmd>
             </step>
             <step>
+                <cmd>A pop-up will show up.<image href="audit.checklist.png" id="image_rzq_bxn_mjc">
+                        <alt>A screenshot of the pop-up that appears when you click Audit, titled
+                            "Audit Event," followed by an explanation of what auditing means, with a
+                            series of checkboxes below it. At the very bottom, there is a prompt to
+                            type in your name to certify the results.</alt>
+                    </image></cmd>
+            </step>
+            <step>
                 <cmd>Check off each box.</cmd>
             </step>
             <step>
