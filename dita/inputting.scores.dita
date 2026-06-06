@@ -20,7 +20,13 @@
             </step>
             <step>
                 <cmd>Check if you have any ties. It will say "TIE" in the "Notes" column in the
-                    team's row if that team is tied with anyone.</cmd>
+                    team's row if that team is tied with anyone.<image href="tie.example.png"
+                        id="image_rlf_4xn_mjc">
+                        <alt>A screenshot of the Anatomy and Physiology scoring tab, where both
+                            School A and School B have a raw score of 33 points. The notes column
+                            has "TIE" written in the row of both schools, and there is a red box
+                            drawing attention to this column.</alt>
+                    </image></cmd>
             </step>
             <step>
                 <cmd>If there are ties, follow the steps below. If there are none, move on to the
